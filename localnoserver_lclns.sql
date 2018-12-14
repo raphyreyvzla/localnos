@@ -23,7 +23,7 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
--- Estructura de tabla para la tabla `bit_exchanges`
+-- Estructura de tabla para la tabla `bit_localnos`
 --
 
 CREATE TABLE IF NOT EXISTS `bit_exchanges` (
